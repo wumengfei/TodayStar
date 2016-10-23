@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">Maaf, kamera pada Android mengalami masalah. Anda mungkin perlu me-restart perangkat.</string>
+    <string name="msg_default_status">Letakkan barcode di dalam kotak jendela untuk memindai.</string>
+</resources>

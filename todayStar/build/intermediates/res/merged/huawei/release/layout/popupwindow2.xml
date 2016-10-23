@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+  >
+	<RelativeLayout 
+	    android:id="@+id/pop_layout2"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:gravity="center"
+	    android:paddingTop="20dp"
+	    android:paddingLeft="12dp"
+		android:layout_centerInParent="true"
+	    android:background="@color/white"  >
+				<TextView
+				    android:layout_alignParentTop="true"
+				    android:layout_alignParentLeft="true"
+				    android:layout_width="fill_parent"
+				    android:layout_height="wrap_content"
+				    android:text="@string/insert_record_date"
+				    android:textColor="@color/word"
+				    android:layout_marginLeft="10dp"
+				    android:clickable="true"
+				    android:id="@+id/select_date"
+				    android:textSize="17sp"
+				    />
+				<TextView
+				    android:layout_marginTop="3dp"
+				    android:layout_below="@+id/select_date"
+				    android:focusable="false"
+				    android:layout_marginLeft="10dp"
+				    android:id="@+id/insert_record_date"
+				    android:layout_width="fill_parent"
+				    android:layout_height="wrap_content"
+				    android:textColor="@color/word1"
+				    android:textSize="15sp"		    
+				    />
+				<TextView
+				    android:layout_marginTop="3dp"
+				    android:layout_below="@+id/insert_record_date"
+				    android:layout_width="fill_parent"
+				    android:layout_height="wrap_content"
+				    android:text="@string/insert_record_reason"
+				    android:layout_marginLeft="10dp"
+				    android:id="@+id/text1"
+				    android:textColor="@color/word"
+				    android:textSize="17sp"
+				    />
+				<TextView
+				    android:layout_marginTop="3dp"
+				    android:layout_below="@id/text1"
+				    android:id="@+id/insert_record_reason"
+				    android:layout_width="fill_parent"
+				    android:layout_marginLeft="10dp"
+				    android:layout_height="wrap_content"
+				    android:textColor="@color/word1"
+				    android:textSize="15sp"		    
+				    />
+			    <RelativeLayout 
+			        android:layout_width="fill_parent"
+			        android:padding="10dp"
+			        android:layout_height="wrap_content"
+			        android:layout_alignParentBottom="true"
+			        >
+
+			        <TextView
+			            android:id="@+id/insert_agree"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:layout_alignParentRight="true"
+			            android:layout_centerVertical="true"
+			            android:layout_marginRight="30dp"
+			            android:clickable="true"
+			            android:text="@string/insert_agree"
+			            android:textColor="@color/blue"
+			            android:textSize="17sp" />
+
+			        <TextView
+			            android:id="@+id/insert_disagree"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:layout_alignBaseline="@+id/insert_agree"
+			            android:layout_alignBottom="@+id/insert_agree"
+			            android:layout_marginRight="47dp"
+			            android:layout_toLeftOf="@+id/insert_agree"
+			            android:clickable="true"
+			            android:text="@string/insert_disagree"
+			            android:textColor="@color/word"
+			            android:textSize="17sp" />
+
+		    </RelativeLayout>	
+	</RelativeLayout>
+</RelativeLayout>

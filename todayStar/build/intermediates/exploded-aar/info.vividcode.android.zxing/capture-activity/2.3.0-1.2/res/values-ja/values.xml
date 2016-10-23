@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-ja/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">Android のカメラに問題が発生しました。 デバイスを再起動することで直る可能性があります。</string>
+    <string name="msg_default_status">QR コードを画面の読み取り範囲内に写すとスキャンします。</string>
+
+</resources>

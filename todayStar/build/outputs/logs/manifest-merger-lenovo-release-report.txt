@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:2:1-78:12
+	package
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:5:33-63
+uses-sdk
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [TodayStar:floatingMenuLib:unspecified] /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/TodayStar/floatingMenuLib/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42
+MERGED from [TodayStar:pulltorefreshlibrary:unspecified] /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/TodayStar/pulltorefreshlibrary/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:12:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:13:22-81
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:16:1-72
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:16:18-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:17:1-87
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:17:18-68
+uses-feature#android.hardware.camera
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:19:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:20:5-70
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:20:19-67
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:23:22-64
+application
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:25:5-76:19
+MERGED from [TodayStar:floatingMenuLib:unspecified] /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/TodayStar/floatingMenuLib/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
+MERGED from [TodayStar:pulltorefreshlibrary:unspecified] /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/TodayStar/pulltorefreshlibrary/unspecified/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:28:9-38
+	android:theme
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:30:9-40
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:26:9-38
+activity#com.ctbri.staroftoday.TeacherMainActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:31:9-35:20
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:33:13-45
+	android:theme
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:32:13-48
+activity#com.ctbri.staroftoday.EditPicActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:36:9-40:20
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:38:13-41
+	android:theme
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:37:13-44
+activity#com.ctbri.staroftoday.RegisterActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:41:9-44:15
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:42:13-31
+	android:theme
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:41:19-51
+activity#com.ctbri.staroftoday.WelcomeActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:45:9-54:20
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:47:13-45
+	android:theme
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:48:13-66
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:46:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:52:27-74
+activity#com.ctbri.staroftoday.LoginActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:55:9-59:20
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:57:13-45
+	android:theme
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:58:13-66
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:56:13-42
+activity#com.ctbri.staroftoday.ImagePagerActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:60:9-63:20
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:62:13-45
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:61:13-47
+activity#com.ctbri.staroftoday.ParentsMainActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:64:9-65:20
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:64:19-54
+activity#com.ctbri.staroftoday.ParentRecordActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:66:9-69:20
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:67:13-49
+activity#com.ctbri.staroftoday.TeacherRecordActivity
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:70:9-73:20
+	android:label
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:71:13-50
+meta-data#UMENG_APPKEY
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:74:9-101
+	android:value
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:74:20-60
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:74:61-88
+meta-data#CHANNEL_NAME
+ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:75:9-82
+	android:value
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:75:48-80
+		INJECTED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml
+	android:name
+		ADDED from /Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/AndroidManifest.xml:75:20-47

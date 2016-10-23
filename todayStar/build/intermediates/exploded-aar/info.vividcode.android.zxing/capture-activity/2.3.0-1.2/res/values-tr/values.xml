@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-tr/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">Tamam</string>
+    <string name="msg_camera_framework_bug">Üzgünüz, Android kamera bir sorunla karşılaştı. Cihazı yeniden başlatmanız gerekebilir.</string>
+    <string name="msg_default_status">Barkodu taramak için vizördeki dikdörtgenin içerisine yerleştirin.</string>
+
+</resources>

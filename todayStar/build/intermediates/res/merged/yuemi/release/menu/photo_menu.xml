@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+ 	<item
+        android:id="@+id/photo_cancel"
+        android:icon="@drawable/ofm_photo_icon"
+        android:title="@string/cancel"/>
+    <item
+        android:id="@+id/photo_edit"
+        android:icon="@drawable/ofm_collect_icon"
+        android:title="@string/edit"/>
+	<item
+        android:id="@+id/photo_delete"
+        android:icon="@drawable/ofm_feedback_icon"
+        android:title="@string/delete"/>
+</menu>

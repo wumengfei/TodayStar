@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TodayStar.iml" filepath="$PROJECT_DIR$/TodayStar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/floatingMenuLib/floatingMenuLib.iml" filepath="$PROJECT_DIR$/floatingMenuLib/floatingMenuLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefreshlibrary/pulltorefreshlibrary.iml" filepath="$PROJECT_DIR$/pulltorefreshlibrary/pulltorefreshlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/todayStar/todayStar.iml" filepath="$PROJECT_DIR$/todayStar/todayStar.iml" />
+    </modules>
+  </component>
+</project>

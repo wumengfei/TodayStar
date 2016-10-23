@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-de/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">Mit der Android-Kamera ist leider ein Fehler aufgetreten. Es könnte sein, dass Sie das Gerät neu starten müssen.</string>
+    <string name="msg_default_status">Positionieren Sie den Barcode innerhalb des Rechteckes.</string>
+
+</resources>

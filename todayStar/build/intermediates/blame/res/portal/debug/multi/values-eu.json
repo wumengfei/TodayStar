@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/portal/debug/values-eu/values-eu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/info.vividcode.android.zxing/capture-activity/2.3.0-1.2/res/values-eu/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 204,
+                        "endColumn": 42,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 141,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/info.vividcode.android.zxing/capture-activity/2.3.0-1.2/res/values-eu/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 141,
+                        "endOffset": 385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 105,
+                    "endOffset": 341
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/info.vividcode.android.zxing/capture-activity/2.3.0-1.2/res/values-eu/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 105,
+                        "endOffset": 492
+                    }
+                }
+            }
+        ]
+    }
+]

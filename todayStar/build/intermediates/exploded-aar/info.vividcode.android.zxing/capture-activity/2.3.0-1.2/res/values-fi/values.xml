@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-fi/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">Valitettavasti Androidin kameran toimiinta häiriintyi. Joudut ehkä käynnistämään laitteen uudelleen.</string>
+    <string name="msg_default_status">Aseta viivakoodi neliön sisälle skannataksesi sen.</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-ca/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">D\'acord</string>
+    <string name="msg_camera_framework_bug">S\'ha produït un problema amb la càmera de l\'Android. Potser haureu de reiniciar el dispositiu.</string>
+    <string name="msg_default_status">Poseu un codi de barres dins el rectable per escanejar-lo.</string>
+
+</resources>

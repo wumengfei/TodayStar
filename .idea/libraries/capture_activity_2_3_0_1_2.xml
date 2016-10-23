@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="capture-activity-2.3.0-1.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/todayStar/build/intermediates/exploded-aar/info.vividcode.android.zxing/capture-activity/2.3.0-1.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/todayStar/build/intermediates/exploded-aar/info.vividcode.android.zxing/capture-activity/2.3.0-1.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/info.vividcode.android.zxing/capture-activity/2.3.0-1.2/ce8525388318700f83e2e0621f80dd56857c933d/capture-activity-2.3.0-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

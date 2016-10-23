@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/jniLibs"/></dataSet><dataSet config="m91"><source path="/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/m91/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/release/jniLibs"/></dataSet><dataSet config="m91Release"><source path="/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/m91Release/jniLibs"/></dataSet></merger>

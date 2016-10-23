@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/toolbar_height"
+        android:paddingLeft="@dimen/activity_padding"
+        android:paddingRight="@dimen/activity_padding"
+        android:paddingBottom="@dimen/activity_padding"
+        android:paddingTop="32dp">
+
+        <EditText
+            android:id="@+id/et_phone"
+            style="@style/LoginEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="16dp"
+            android:hint="@string/cell_phone" />
+
+
+        <LinearLayout
+            android:id="@+id/ll_validate_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/et_phone"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="16dp"
+            android:weightSum="2"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/et_validate_code"
+                style="@style/LoginEditText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left|center_vertical"
+                android:hint="@string/validate_code"
+                android:maxLength="6"
+                android:maxWidth="180dp"
+                android:layout_weight="1" />
+
+            <Button
+                android:id="@+id/b_validate_code"
+                style="@style/UserCenterLoginButton"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_marginLeft="8dp"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minEms="10"
+                android:layout_weight="1"
+                android:maxWidth="90dp"
+                android:text="@string/get_validate_code" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/et_password"
+            style="@style/LoginEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ll_validate_code"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="16dp"
+            android:hint="@string/password_register" />
+
+        <EditText
+            android:id="@+id/et_baby_name"
+            style="@style/LoginEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/et_password"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="40dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginTop="16dp"
+            android:hint="@string/baby_name" />
+
+        <TextView
+            android:id="@+id/tv_baby_birthday_tab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/et_baby_name"
+            android:layout_below="@+id/et_baby_name"
+            android:layout_marginTop="16dp"
+            android:paddingLeft="16dp"
+            android:text="@string/baby_birthday" />
+
+        <TextView
+            android:id="@+id/tv_baby_birthday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tv_baby_birthday_tab"
+            android:layout_below="@+id/et_baby_name"
+            android:layout_toRightOf="@+id/tv_baby_birthday_tab"
+            android:drawablePadding="8dp"
+            android:drawableRight="@mipmap/calender_icon"
+            android:paddingLeft="8dp" />
+
+        <Button
+            android:id="@+id/b_register"
+            style="@style/UserCenterLoginButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_baby_birthday_tab"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="32dp"
+            android:gravity="center"
+            android:text="@string/register" />
+
+
+
+
+    </RelativeLayout>
+</LinearLayout>

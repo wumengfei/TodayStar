@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/floatingMenuLib/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_in.xml"
+    }
+]

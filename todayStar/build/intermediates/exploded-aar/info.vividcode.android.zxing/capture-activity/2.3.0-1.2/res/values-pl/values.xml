@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-pl/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">Przepraszamy, aparat Android napotkał problem. Może wystąpić potrzeba ponownego uruchomienia urządzenia.</string>
+    <string name="msg_default_status">Umieść kod paskowy w prostokącie wizjera aby zeskanować.</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_ok">אישור</string>
+    <string name="msg_camera_framework_bug">סליחה, מצלמת האנדרואיד נתקלה בבעיה. ייתכן שיהיה עליך להפעיל מחדש את המכשיר.</string>
+    <string name="msg_default_status">הצב ברקוד בתוך המלבן כדי לסרוק אותו.</string>
+    <string name="pull_to_refresh_pull_label">משוך לרענון…</string>
+    <string name="pull_to_refresh_refreshing_label">טוען…</string>
+    <string name="pull_to_refresh_release_label">שחרר לרענון…</string>
+</resources>

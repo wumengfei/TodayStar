@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-eu/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">Ados</string>
+    <string name="msg_camera_framework_bug">Barkatu, Android kamerak arazo bat izan du. Behar bada gailua berrabiarazi beharko duzu.</string>
+    <string name="msg_default_status">Kokatu barra-kode bat laukizuzenaren barruan eskaneatzeko.</string>
+
+</resources>

@@ -1,0 +1,51 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<style name="AppBaseTheme" parent="android:Theme.Light">
+	<!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="testStyle" parent="AppBaseTheme">
+        </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:actionBarStyle">@style/my_actionbar_style</item>
+        <item name="android:actionMenuTextColor">#FF0000</item>
+    </style>
+    <style name="my_actionbar_style" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">#ffffff</item>
+         <item name="android:textStyle">bold</item>  
+        <item name="android:textColor">#5d5d5d</item>
+        <item name="android:homeAsUpIndicator">@drawable/test</item>
+    </style>
+    
+      <style name="horizontal_bar">
+          <item name="android:layout_width">fill_parent</item>
+          <item name="android:layout_height">1px</item>
+          <item name="android:background">#d0d0d0</item>
+      </style>
+
+    <style name="EditText">
+        <item name="android:textSize">14sp</item>
+        <item name="android:maxWidth">200dp</item>
+        <item name="android:minWidth">200dp</item>
+    </style>
+
+    <style name="LoginEditText" parent="EditText">
+        <item name="android:gravity">start|center_vertical</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:background">@drawable/et_bg</item>
+        <item name="android:textColorHint">@color/gray</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="UserCenterLoginButton">
+        <item name="android:gravity">center</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:background">@drawable/btn_bg</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

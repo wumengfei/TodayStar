@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-fr/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">Désolé, la caméra Android a rencontré un problème. Un redémarrage de l\'appareil est peut-être nécessaire.</string>
+    <string name="msg_default_status">Placer un code-barres à l\'intérieur du rectangle pour le scanner.</string>
+
+</resources>

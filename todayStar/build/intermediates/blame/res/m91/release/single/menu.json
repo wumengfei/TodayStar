@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/m91/release/menu/main_menu.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/m91/release/menu/photo_menu.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/menu/photo_menu.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/m91/release/menu/main.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/m91/release/menu/photo_menu1.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/menu/photo_menu1.xml"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/m91/release/menu/record.xml",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/menu/record.xml"
+    }
+]

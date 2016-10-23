@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">今日宝宝</string>
+    <string name="send">发送</string>
+    <string name="login">登录</string>
+    <string name="login_account_hint">用户名</string>
+    <string name="login_password_hint">密码</string>
+    <string name="login_black_hint">*忘记密码请通过幼学堂手机客户端找回</string>
+    <string name="login_red_hint"> 用户名或密码错误，请重新输入!</string>
+    <string name="edit_hint">请输入内容</string>
+    <string name="recommend">推荐播放</string>
+    <string name="delete">删除照片</string>
+    <string name="cancel">取消推荐</string>
+    <string name="edit">修改</string>
+    <string name="agree">插播</string>
+    <string name="disagree">驳回</string>
+    <string name="action_qrLogin">扫码登录</string>
+    <string name="action_album">相册上传</string>
+    <string name="action_feed">请求插播</string>
+    <string name="action_feed1">插播请求</string>
+    <string name="action_takephoto">拍照上传</string>
+    <string name="action_exit">退出登录</string>
+    <string name="record_state">未处理</string>
+    <string name="record_detail">详情</string>
+    <string name="record_name">申请纪录</string>
+    <string name="record_new">新建申请</string>
+    <string name="no_more_pic">没有纪录</string>
+    <string name="insert_record_hint1">请点击上方文字选择日期</string>
+    <string name="insert_record_hint2">理由。。。</string>
+    <string name="insert_record_date">插播时间</string>
+    <string name="insert_record_reason">插播理由</string>
+    <string name="insert_record_giveup">放弃</string>
+    <string name="insert_record_handup">提交</string>
+    <string name="insert_agree">同意</string>
+    <string name="insert_disagree">拒绝</string>
+	<string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">软件更新</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗</string>
+    <string name="soft_update_updatebtn">更新</string>
+    <string name="soft_update_later">稍后更新</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="soft_update_cancel">取消</string>
+    <string name="cell_phone">手机号</string>
+    <string name="password_register">6&#8211;16位密码</string>
+    <string name="validate_code">验证码</string>
+    <string name="get_validate_code">获取验证码</string>
+    <string name="baby_name">宝贝姓名</string>
+    <string name="baby_birthday">宝贝生日</string>
+    <string name="register">注册</string>
+</resources>

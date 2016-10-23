@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/jniLibs"/></dataSet><dataSet config="leshi"><source path="/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/leshi/jniLibs"/></dataSet><dataSet config="release"><source path="/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/release/jniLibs"/></dataSet><dataSet config="leshiRelease"><source path="/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/leshiRelease/jniLibs"/></dataSet></merger>

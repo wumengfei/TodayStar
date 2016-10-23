@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/D:/nobuoka/Documents/Android/android-lib-ZXingCaptureActivity/src/main/res/values-ru/strings.xml -->
+    <eat-comment />
+
+    <string name="button_ok">OK</string>
+    <string name="msg_camera_framework_bug">К сожалению, возникла ошибка камеры. Вам может потребоваться перезагрузка устройства.</string>
+    <string name="msg_default_status">Чтобы сканировать штрих-код, поместите его в прямоугольник видоискателя.</string>
+
+</resources>

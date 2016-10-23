@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/yuemi/release/mipmap-xhdpi-v4/calender_icon.png",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/mipmap-xhdpi/calender_icon.png"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/yuemi/release/mipmap-xhdpi-v4/search.png",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/mipmap-xhdpi/search.png"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/yuemi/release/mipmap-xhdpi-v4/xx.png",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/mipmap-xhdpi/xx.png"
+    },
+    {
+        "merged": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/yuemi/release/mipmap-xhdpi-v4/icon_geo.png",
+        "source": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/mipmap-xhdpi/icon_geo.png"
+    }
+]

@@ -1,0 +1,188 @@
+[
+    {
+        "outputFile": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/res/merged/vivo/release/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 12,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 1028
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1033,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1840
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1126,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1845,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2664
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1939,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2669,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 3518
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2764,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 3613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3523,
+                    "endColumn": 112,
+                    "endOffset": 3631
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3845,
+                        "endColumn": 119,
+                        "endOffset": 3960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3636,
+                    "endColumn": 94,
+                    "endOffset": 3726
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3966,
+                        "endColumn": 101,
+                        "endOffset": 4063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3731,
+                    "endColumn": 116,
+                    "endOffset": 3843
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4069,
+                        "endColumn": 123,
+                        "endOffset": 4188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3848,
+                    "endColumn": 124,
+                    "endOffset": 3968
+                },
+                "from": {
+                    "file": "/Users/Murphy/AndroidStudioProjects/TodayStar/todayStar/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4194,
+                        "endColumn": 131,
+                        "endOffset": 4321
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="background_tab_pressed">#6633B5E5</color>
+        <color name="pink">#e91e63</color>
+        <color name="white">#ffffff</color>
+        <color name="word">#5d5d5d</color>
+        <color name="word1">#817f7f</color>
+        <color name="blue">#11ABDE</color> 
+        <color name="darkgray">#938192</color>
+        <color name="red">#f90516</color>
+        <color name="orange1">#F86013</color>
+        <color name="pink_pressed">#ec407a</color>
+    <color name="gray">#808080</color>
+    <color name="black">#000000</color><!--黑色 -->
+    <!--草绿色 -->
+    <color name="gray_cc">#cccccc</color><!--灰色cc -->
+</resources>
